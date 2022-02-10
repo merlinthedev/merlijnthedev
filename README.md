@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @merlijnthedev
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @merlinthedev
+- 👀 I’m interested in JS, React, NextJS
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: merlin#2446 on discord. merlinthedev.nl
 
